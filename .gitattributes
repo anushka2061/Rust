@@ -1,2 +1,2 @@
-
 *.rs linguist-language=Rust
+target/doc/** linguist-generated=true
