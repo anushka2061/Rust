@@ -1,9 +1,7 @@
 
-<<<<<<< HEAD
 *.html linguist-vendored
+target/** linguist-vendored
+docs/** linguist-vendored
 *.js linguist-vendored
 *.css linguist-vendored
-docs/** linguist-vendored
-assets/** linguist-vendored
-=======
->>>>>>> 62997be181f842f18b686ebff461825e76257468
+*.json linguist-vendored
