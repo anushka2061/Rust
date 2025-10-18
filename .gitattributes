@@ -1,7 +1,5 @@
-Makefile linguist-vendored
-*.html linguist-vendored
-*.js linguist-vendored
-*.css linguist-vendored
-*.json linguist-vendored
-docs/** linguist-vendored
-assets/** linguist-vendored
+echo "*.html linguist-vendored" >> .gitattributes
+echo "*.js linguist-vendored" >> .gitattributes
+echo "*.css linguist-vendored" >> .gitattributes
+echo "docs/** linguist-vendored" >> .gitattributes
+echo "assets/** linguist-vendored" >> .gitattributes
