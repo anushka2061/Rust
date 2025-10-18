@@ -1,2 +1,6 @@
-*.rs linguist-language=Rust
-target/doc/** linguist-generated=true
+
+*.html linguist-vendored
+*.js linguist-vendored
+*.css linguist-vendored
+docs/** linguist-vendored
+assets/** linguist-vendored
